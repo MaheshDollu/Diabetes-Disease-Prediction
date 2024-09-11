@@ -11,6 +11,7 @@ of a person having diabetes using a Python Machine Learning Algorithm. We will g
 such as blood pressure, sugar levels, and other relevant variables.
 
 
+
 Goal:
 
 • Predict the likelihood of a person having diabetes using data on blood pressure, sugar levels, and other
@@ -22,8 +23,11 @@ variables.
 
 
 Objectives:
+
 • Gather and analyze data on people's blood pressure, sugar levels, and other relevant variables.
+
 • Develop a Python Machine Learning Algorithm to predict the likelihood of diabetes.
+
 • Evaluate the performance of different classification models and select the most accurate one.
 
 
