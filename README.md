@@ -12,9 +12,12 @@ such as blood pressure, sugar levels, and other relevant variables.
 
 
 Goal:
+
 • Predict the likelihood of a person having diabetes using data on blood pressure, sugar levels, and other
 variables.
+
 • Identify the most indicative features of diabetes.
+
 • Evaluate and compare different classification methods to find the highest accuracy.
 
 
